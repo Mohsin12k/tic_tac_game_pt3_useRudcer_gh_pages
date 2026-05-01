@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/tic_tac_toe_game_pt3_useRudcer_gh_pages/"
+  base: "/tic_tac_game_pt3_useRudcer_gh_pages/"
 })
